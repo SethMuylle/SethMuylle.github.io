@@ -1989,3 +1989,40 @@ body {
 .cid-qCbCBEPamP .mbr-text {
   color: #767676;
 }
+.cid-qCbNy3RJKQ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qCbNy3RJKQ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qCbNy3RJKQ .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-qCbNy3RJKQ .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-qCbNy3RJKQ .team-item .item-image img {
+  width: 100%;
+}
+.cid-qCbNy3RJKQ .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-qCbNy3RJKQ .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-qCbNy3RJKQ .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qCbNy3RJKQ .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-qCbNy3RJKQ .team-item .item-caption {
+  background: #efefef;
+}
