@@ -1452,6 +1452,11 @@ body {
 .cid-qBO8kl80Ih {
   background-image: url("../../../assets/images/20180301-120512.jpg");
 }
+.cid-qNzq8DUX5V {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
 .cid-qBOa8JhlKW {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2028,11 +2033,6 @@ body {
 .cid-qBOfVe3EVm .mbr-text {
   color: #767676;
 }
-.cid-qNzq8DUX5V {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #232323;
-}
 .cid-qCbADTyyNR {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2139,4 +2139,38 @@ body {
 }
 .cid-qCbNy3RJKQ .team-item .item-caption {
   background: #efefef;
+}
+.cid-qPyrlkfbh5 {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qPyrlkfbh5 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qPyrlkfbh5 .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-qPyrlkfbh5 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-qPyrlkfbh5 .team-item .item-image img {
+  width: 100%;
+}
+.cid-qPyrlkfbh5 .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-qPyrlkfbh5 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-qPyrlkfbh5 .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qPyrlkfbh5 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
 }
