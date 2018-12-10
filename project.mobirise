@@ -36,7 +36,7 @@
     "favicon": "",
     "noImageResize": "true",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 46,
+    "uniqCompNum": 49,
     "versionPublish": "4.8.8",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110252907-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-110252907-1');\r\n</script>\r\n\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -1379,6 +1379,23 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/20181203-175559.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "IMAGE SLIDE",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/20181203-175539.jpg",
                 "active": false,
                 "showButtons": false,
@@ -1397,7 +1414,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20181203-175639.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1414,6 +1431,55 @@
               }
             ]
           }
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content3",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Tekenen betekent voor mij een geheel andere manier van vrijheid. Het feit dat ik niet op duur papier teken neemt een zekere druk weg. Het hoeft als het ware geen mooi resultaat te zijn en dat resulteert in omgeremde hersenspinsels. Neem bijvoorbeeld een krant. Het feit dat de lay-out, inhoud en vorm van de materie op zich al zo'n grote invloed hebben zorgt voor een nieuwe dementie. De voorbeelden hierboven zijn allemaal van 1 sessie met een model.</div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>\n                     Hoewel de tekeningen dus lauter over reproductie zouden moeten gaan, worden sommige beelden toch politiek beladen. Het feit dat Hitler zich plots in het beeld mengt, maakt het voor mij een stuk interessanter. Dat geldt natuurlijk niet enkel voor kranten. Toen ik terugkwam van Basquiat in Parijs heb ik de gehele terugrit op de bedoomde autovensters getekend. Door de voorbijglijdende straatverlichting, ontstond een \"kinderlamp-effect\". De tekening werd willekeurig opgelicht, net zoals het nachtlampje van Le petit prince dat vroeger naast mijn bed stond.</div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rbQdiBI9xe",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content3-1a"
+        },
+        {
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".video-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".video-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "video1",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Volle breedte\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Breedte\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Verloop\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Kleur 2\" name=\"color2\" value=\"#b2ccd2\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=hj4h3T22e-Y&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
+          "_cid": "rbQhRlXZm6",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "video1-1c"
         },
         {
           "_styles": {
@@ -1855,7 +1921,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Als een artiest leeft omdat hij schildert, is het eigen aan de mens dat dit hun interesse wekt. Dat komt omdat dit in lijkt te gaan tegen hun natuurlijke overlevingsdrang. Het creëren heeft vreemd genoeg al vaak een destructie effect gehad op diegenen die er zich aan waagden. Doordat het ontluikende schilderij absolute voorrang heeft op het spreekwoordelijke draaien van de wereld, wordt de gezondheid iets banaal. Het creperen heeft, minder vreemd genoeg, een aantrekkingskracht. Schilders als Van Gogh en Vandenbergh hebben bewezen dat ze kunstenaars zijn door hun tragische levensverloop. Als een boot, botsend tegen de kade, bleven ze proberen. Of zoals Vandenberg in zijn brief aan Karel Dierickx (10 mei 1997) besluit:<div>“Mon cher K., c'est la recherche du sublime qui rend la vie terrible, c'est une façon d'être qui se prolonge dans la peinture (absolutamente necesario! zou de consul uitstamelen).  C'est une facon d'être courageux et c'est, comme tout, une absurdité. Het sublieme, beste vriend, zijn de drollen die rollen uit 't achterste van de eeuwigheid en ben ik sterk genoeg om ze dáár te gaan rapen? En jij?“</div><div><br></div><div>Dit is een fragment uit mijn essay. Het gaat over de artiest en zijn drijfveren. Ik ga op zoek naar het waarom aan de hand van de gedachten van kunstenaar Philippe Vandenberg. Het schrijven van dit stuk toont aan dat ik schrijven over mijn werk hoog in het vaandel draag. Het draagt oneindig veel bij aan je werk als jer er op een poetisch manier over kan communiceren... Die vaardigheid had Vandenberg vast en zeker.</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Als een artiest leeft omdat hij schildert, is het eigen aan de mens dat dit hun interesse wekt. Dat komt omdat dit in lijkt te gaan tegen hun natuurlijke overlevingsdrang. Het creëren heeft vreemd genoeg al vaak een destructie effect gehad op diegenen die er zich aan waagden. Doordat het ontluikende schilderij absolute voorrang heeft op het spreekwoordelijke draaien van de wereld, wordt de gezondheid iets banaal. Het creperen heeft, minder vreemd genoeg, een aantrekkingskracht. Schilders als Van Gogh en Vandenbergh hebben bewezen dat ze kunstenaars zijn door hun tragische levensverloop. Als een boot, botsend tegen de kade, bleven ze proberen. Of zoals Vandenberg in zijn brief aan Karel Dierickx (10 mei 1997) besluit:<div>“Mon cher K., c'est la recherche du sublime qui rend la vie terrible, c'est une façon d'être qui se prolonge dans la peinture (absolutamente necesario! zou de consul uitstamelen).  C'est une facon d'être courageux et c'est, comme tout, une absurdité. Het sublieme, beste vriend, zijn de drollen die rollen uit 't achterste van de eeuwigheid en ben ik sterk genoeg om ze dáár te gaan rapen? En jij?“</div><div><br></div><div>Dit is een fragment uit mijn essay. Het gaat over de artiest en zijn drijfveren. Ik ga op zoek naar het waarom aan de hand van de gedachten van kunstenaar Philippe Vandenberg. Het schrijven van dit stuk toont aan dat ik schrijven over mijn werk hoog in het vaandel draag. Het draagt oneindig veel bij aan je werk als jer er op een poetisch manier over kan communiceren... Die vaardigheid had Vandenberg vast en zeker.</div><div><br></div><div>interesse in het volledige document? Cantacteer me op seth.muylle@hotmail.com</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qTyRxXiPLK",
           "_anchor": "content1-y",
           "_protectedParams": [],
