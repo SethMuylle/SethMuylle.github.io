@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Seth Muylle masterstudent",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -487,6 +487,19 @@
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
                 "active": true
+              },
+              {
+                "tags": "Geweldige",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/6-50-40-6-50-39-6-50-20-6-50-13-scan184951209-2000x1414.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-50-40-6-50-39-6-50-20-6-50-13-scan184951209-2000x1414-800x566.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Onderschrift hier",
+                "active": false
               }
             ]
           }
