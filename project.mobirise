@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Seth Muylle masterstudent",
-    "currentPage": "page6.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1144,19 +1144,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20210106-154833-2000x2667.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20210106-154833-2000x2667-800x1067.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -1164,8 +1151,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20201214-155747-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20201214-155747-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20201214-155553-2000x1883.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20201214-155553-2000x1883-800x753.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1186,12 +1173,12 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20201214-150011-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20201214-150011-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-111c-2000x2692.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-111c-2000x2692-800x1077.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1222,20 +1209,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20201214-144857-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20201214-144857-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -1277,12 +1251,12 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc00242-1-2000x1351.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc00242-1-2000x1351-800x540.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20201214-150011-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20201214-150011-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1294,8 +1268,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-111c-2000x2692.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-111c-2000x2692-800x1077.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc00242-1-2000x1351.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00242-1-2000x1351-800x540.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
