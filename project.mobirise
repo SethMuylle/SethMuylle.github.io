@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Seth Muylle masterstudent",
-    "currentPage": "page2.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1282,8 +1282,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20210215-163603-2000x1500.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20210215-163603-2000x1500-800x578.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/img-20210216-151910-2000x1500.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20210216-151910-2000x1500-800x576.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
