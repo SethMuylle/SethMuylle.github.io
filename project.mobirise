@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Seth Muylle masterstudent",
-    "currentPage": "page6.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -635,7 +635,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Ik ben een Brugse schilder die zijn vak leerde op St-Lucas Gent. Tijdens die periode van opleiding liet ik me inspireren door kunstenaars als Philippe Vandenberg, Walter Swennen, René Daniëls en Phillip Guston. Mijn werk is steeds een zeer directe, impulsieve neerslag van mijn leefwereld. Ik probeer mijn ideeën direct op doek te gooien en  hoop dat er af en toe iets bruikbaars tussen zit. Vaak is er een link te leggen met politiek, geschiedenis, voetbal of schilderkunst. Dit jaar ben ik ook bezig met een educatieve master in de hoop mijn passie voor kunst door te kunnen geven aan de volgende generatie.&nbsp;</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>In het middelbaar volgde ik humane wetenschappen in de Garenmarkt, Brugge. In 2016 begon ik mijn hogere studies aan de Luca school of arts te Gent. Ik behaalde in 2020 een master in de schilderkunst met grote onderscheiding. Momenteel ben ik bezig met een aanvullende educatieve master in de vrije kunsten.</p><p>Ik zit samen met een achttal andere kunstenaars op een atelier in Sint-Amandsberg. Wanneer ik op die plek ben, sta ik volledig in functie van mijn beelden. Mijn werk is bijgevolg een zeer directe neerslag van mijn wereld. Vaak is er een link te leggen met (kunst)geschiedenis, actualiteit, voetbal of politiek. Deze onderwerpen worden in mijn beelden constant besproken op een harde, expressieve manier. Er zijn vier kunstenaars die mijn beeldtaal enorm inspireren: Philip Guston, Philippe Vandenberg, René Daniëls en Walter Swennen.</p><p>Voor wekelijkse updates, volg mijn Instagram account:</p><p>https://www.instagram.com/sethmuylle/</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rJGzpVUKjR",
           "_anchor": "content1-d",
           "_protectedParams": [],
@@ -1122,6 +1122,32 @@
                 "active": false
               },
               {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20210202-153127-1-1693x2819.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20210202-153127-1-1693x2819-800x1332.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-114a-1774x1392.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-114a-1774x1392-800x628.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1139,8 +1165,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2021-01-24-om-16.25.52-674x627.png",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2021-01-24-om-16.25.52-674x627-674x627.png",
+                "image": "@PROJECT_PATH@/assets/images/img-20210216-151910-2000x1500.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20210216-151910-2000x1500-800x576.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1174,12 +1200,12 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc00410-2000x1440.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc00410-2000x1440-800x948.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2021-01-24-om-16.25.52-674x627.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2021-01-24-om-16.25.52-674x627-674x627.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1191,8 +1217,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2021-01-24-om-16.28.52-629x735.png",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2021-01-24-om-16.28.52-629x735-629x735.png",
+                "image": "@PROJECT_PATH@/assets/images/dsc00410-2000x1440.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00410-2000x1440-800x948.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1239,6 +1265,19 @@
                 "active": false
               },
               {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2021-01-24-om-16.28.52-629x735.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2021-01-24-om-16.28.52-629x735-629x735.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1256,34 +1295,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20210202-153127-1-1693x2819.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20210202-153127-1-1693x2819-800x1332.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-20210215-173556-2000x2667.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20210215-173556-2000x2667-800x1067.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20210216-151910-2000x1500.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20210216-151910-2000x1500-800x576.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
