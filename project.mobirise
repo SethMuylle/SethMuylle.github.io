@@ -1341,6 +1341,32 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/91415049-cf82-4ec0-b955-49935d97d9fb-1-201-a-1564x2215.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/91415049-cf82-4ec0-b955-49935d97d9fb-1-201-a-1564x2215-800x1133.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/e0c95434-4a56-4ec2-8590-f1012c226603-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/e0c95434-4a56-4ec2-8590-f1012c226603-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           }
